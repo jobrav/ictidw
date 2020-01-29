@@ -1,0 +1,80 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-auto-flow: row;
+  grid-auto-rows: 100vh;
+  overflow-x: hidden;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  grid-template-columns: repeat(2, 1fr);
+}
+@media screen and (max-width: 800px) {
+  body {
+    grid-template-columns: 1fr;
+  }
+}
+h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  margin: 30px 15px;
+}
+h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+  margin: 0 15px;
+  max-width: 450px;
+  width: calc(100% - 30px);
+}
+img {
+  min-height: 100%;
+  min-width: 100%;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  color: white;
+  max-width: 450px;
+  width: calc(100% - 30px);
+  margin: 5px 15px;
+}
+a {
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: white;
+  bottom: 50px;
+  text-decoration: none;
+}
+.container {
+  position: relative;
+  background-color: white;
+  scroll-snap-align: start;
+}
+.hero {
+  justify-self: stretch;
+  align-self: stretch;
+  overflow: hidden;
+}
+.par {
+  justify-self: stretch;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.par:nth-child(odd) {
+  background-color: #ffc933;
+}
+.par:nth-child(even) {
+  background-color: #1e1e24;
+}
