@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ictidw/lasertag/static/css/main.ce3d27c5.chunk.css",
-    "main.js": "/ictidw/lasertag/static/js/main.41546458.chunk.js",
-    "main.js.map": "/ictidw/lasertag/static/js/main.41546458.chunk.js.map",
+    "main.js": "/ictidw/lasertag/static/js/main.7a37d96e.chunk.js",
+    "main.js.map": "/ictidw/lasertag/static/js/main.7a37d96e.chunk.js.map",
     "runtime-main.js": "/ictidw/lasertag/static/js/runtime-main.2f92514b.js",
     "runtime-main.js.map": "/ictidw/lasertag/static/js/runtime-main.2f92514b.js.map",
-    "static/js/2.7ad81183.chunk.js": "/ictidw/lasertag/static/js/2.7ad81183.chunk.js",
-    "static/js/2.7ad81183.chunk.js.map": "/ictidw/lasertag/static/js/2.7ad81183.chunk.js.map",
+    "static/js/2.e35f6730.chunk.js": "/ictidw/lasertag/static/js/2.e35f6730.chunk.js",
+    "static/js/2.e35f6730.chunk.js.map": "/ictidw/lasertag/static/js/2.e35f6730.chunk.js.map",
     "index.html": "/ictidw/lasertag/index.html",
-    "precache-manifest.cd5d977ee37eed05e31b88fa3fce621a.js": "/ictidw/lasertag/precache-manifest.cd5d977ee37eed05e31b88fa3fce621a.js",
+    "precache-manifest.c8d9f3a6dc1bb455ccea5c7a844882f9.js": "/ictidw/lasertag/precache-manifest.c8d9f3a6dc1bb455ccea5c7a844882f9.js",
     "service-worker.js": "/ictidw/lasertag/service-worker.js",
     "static/css/main.ce3d27c5.chunk.css.map": "/ictidw/lasertag/static/css/main.ce3d27c5.chunk.css.map",
-    "static/js/2.7ad81183.chunk.js.LICENSE.txt": "/ictidw/lasertag/static/js/2.7ad81183.chunk.js.LICENSE.txt"
+    "static/js/2.e35f6730.chunk.js.LICENSE.txt": "/ictidw/lasertag/static/js/2.e35f6730.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2f92514b.js",
-    "static/js/2.7ad81183.chunk.js",
+    "static/js/2.e35f6730.chunk.js",
     "static/css/main.ce3d27c5.chunk.css",
-    "static/js/main.41546458.chunk.js"
+    "static/js/main.7a37d96e.chunk.js"
   ]
 }

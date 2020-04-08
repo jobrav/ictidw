@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ictidw/lasertag/precache-manifest.cd5d977ee37eed05e31b88fa3fce621a.js"
+  "/ictidw/lasertag/precache-manifest.c8d9f3a6dc1bb455ccea5c7a844882f9.js"
 );
 
 self.addEventListener('message', (event) => {
